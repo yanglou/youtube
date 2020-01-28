@@ -1,0 +1,66 @@
+
+header{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom : 2%;
+  
+
+}
+i{
+  opacity: 50%;
+}
+
+#container{
+  display: flex;
+}
+main{
+  display: flex;
+  flex-direction: column;
+}
+aside{
+  flex: 0 0 25em;
+  padding-left: 2%
+}
+
+#logo{
+  width: 10%;
+  height:auto;
+  opacity: 100%
+}
+
+
+.thumbnail{
+  width: 50%;
+  height: 50%;
+  padding-top: 5%;
+  padding-right:10%
+}
+
+.thumbnail_container{
+  display: flex;
+}
+
+.subscribe {
+  display: flex;
+
+}
+
+
+
+#avatar {
+  height: 5em;
+  width: 5em;
+  padding-right: 5%;
+  padding-top: 5%
+}
+
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;
+  background-color:lightgray;
+  height: 1px;
+}
+
